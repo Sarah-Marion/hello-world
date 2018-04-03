@@ -1,15 +1,14 @@
 # Hello-World
 
 ## Authors
-- [iantheninja](https://github.com/iantheninja)
-- Add your clickable username here. It should point to your GitHub account. 
-
+ - [iantheninja](https://github.com/iantheninja)
+ - [Sarah Marion](https://github.com/Sarah-Marion)
 ## Project setup instructions
 To start using this project use the following commands:
 
-- `git clone https://github.com/moringaschool/hello-world.git`
-- `cd hello-world`
-- `atom .`
+ - `git clone https://github.com/moringaschool/hello-world.git`
+ - `cd hello-world`
+ - `atom .`
 
 ## License info
 MIT License
